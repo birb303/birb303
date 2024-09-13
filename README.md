@@ -3,13 +3,13 @@
 </h1>
 
 <div align='center'> 
-  <a href="mailto:p.garciajairo@gmail.com">
+  <a href="mailto:p.garciajairo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/jairo-garcia-a472a429a/">
+  <a href="https://www.linkedin.com/in/jairo-garcia-a472a429a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://birb303.github.io/jgarcia/">
+  <a href="https://birb303.github.io/jgarcia/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </div>
