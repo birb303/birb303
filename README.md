@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jairo-garcia-a472a429a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://bsitport2026.com/jgarcia/">
+  <a href="https://birb303.github.io/jgarcia/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
 </div>
